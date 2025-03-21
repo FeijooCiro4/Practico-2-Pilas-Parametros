@@ -1,4 +1,5 @@
-// Trabajo Pr·ctico 2, ProgramaciÛn 1, primer cuatrimentre.
+// Trabajo Pr√°ctico 2, Programaci√≥n 1, primer cuatrimentre.
+// Prueba de pull
 
 #include <stdio.h>
 #include <stdlib.h>

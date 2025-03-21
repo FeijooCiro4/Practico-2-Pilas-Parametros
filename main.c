@@ -1,3 +1,5 @@
+// Trabajo Práctico 2, Programación 1, primer cuatrimentre.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "Pila/pila.h"
